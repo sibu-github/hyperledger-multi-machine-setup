@@ -1,6 +1,7 @@
 # Hyperledger Fabric multi machine setup
 
-This setup guide describes the process of deploying hyperledger fabric blockchain on multiple machines. Note: In this setup we have used "solo" as the orderer service and we have assumed both machines are under same Local Area Network.
+This setup guide describes the process of deploying hyperledger fabric blockchain on multiple machines.
+Note: In this setup we have used "solo" as the orderer service and we have assumed both machines are under same Local Area Network.
 
 ## Prerequisites
 
